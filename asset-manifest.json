@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sai-devotionals/static/css/main.f855e6bc.css",
-    "main.js": "/sai-devotionals/static/js/main.8750311e.js",
-    "static/js/453.284fcc7e.chunk.js": "/sai-devotionals/static/js/453.284fcc7e.chunk.js",
+    "main.css": "/sai-devotionals/static/css/main.e6c13ad2.css",
+    "main.js": "/sai-devotionals/static/js/main.a82294fc.js",
+    "static/js/453.0167b703.chunk.js": "/sai-devotionals/static/js/453.0167b703.chunk.js",
     "index.html": "/sai-devotionals/index.html",
-    "main.f855e6bc.css.map": "/sai-devotionals/static/css/main.f855e6bc.css.map",
-    "main.8750311e.js.map": "/sai-devotionals/static/js/main.8750311e.js.map",
-    "453.284fcc7e.chunk.js.map": "/sai-devotionals/static/js/453.284fcc7e.chunk.js.map"
+    "main.e6c13ad2.css.map": "/sai-devotionals/static/css/main.e6c13ad2.css.map",
+    "main.a82294fc.js.map": "/sai-devotionals/static/js/main.a82294fc.js.map",
+    "453.0167b703.chunk.js.map": "/sai-devotionals/static/js/453.0167b703.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.8750311e.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a82294fc.js"
   ]
 }
